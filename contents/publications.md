@@ -15,3 +15,10 @@
 - Hu, Z., Lin, W., Ye, X., Xu, H., Zhong, H., **Huang, H.**, & Wang, X. (2025). Generic user behavior: A user behavior similarity-based recommendation method. **Big Data.** [[Paper]](https://www.liebertpub.com/doi/abs/10.1089/big.2022.0260)
 - Li, J., Lin, W., Wang, X., & **Huang, H.** (2025). SIMPLO: a reinforcement learning-based long-running container scheduling algorithm with interference awareness for performance and power efficiency optimization. **Cluster Computing.** [[Paper]](https://link.springer.com/article/10.1007/s10586-025-05414-w)
 - Chen, R., **Huang, H.**, Luo, X., & Lin, W. (2023). A Server Placement Algorithm for Reducing Risk and Improving Power Utilization in Data Centers. **Tsinghua Science and Technology.** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10225278)
+
+
+#### Programs
+- 国家自然科学基金面上项目《云数据中心服务器的新功耗模型与节能方法》
+- 广东省基础与应用基础研究重大项目《基于国产CPU的云计算操作系统》
+- 面向基准测试场景和实际业务场景的集群能效优化与基准设计
+- 数据中心能效建模技术
