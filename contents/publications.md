@@ -1,7 +1,7 @@
 #### Published
 
-- **Huang, H.**, Lin, W., Luo, X., Wang, X., & Li, K. Ruler: Extremely Efficient Power-Aware Optimization for Latency-Critical Systems **IEEE Transactions on Computers**. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11686448)
-- **Huang, H.**, Lin, W., Luo, X., Z. Wang, J., & Li, K. Dynamic Power Capping for Latency-Sensitive Cloud Applications: A Prediction-based Power Efficiency Approach. **IEEE Transactions on Computers**. [[Paper]](https://ieeexplore.ieee.org/document/11311567)
+- **Huang, H.**, Lin, W., Luo, X., Wang, X., & Li, K. (2026). Ruler: Extremely Efficient Power-Aware Optimization for Latency-Critical Systems **IEEE Transactions on Computers**. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11686448)
+- **Huang, H.**, Lin, W., Luo, X., Z. Wang, J., & Li, K. (2026). Dynamic Power Capping for Latency-Sensitive Cloud Applications: A Prediction-based Power Efficiency Approach. **IEEE Transactions on Computers**. [[Paper]](https://ieeexplore.ieee.org/document/11311567)
 - **Huang, H.**, Lin, W., Lin, J., & Li, K. (2025). Power management optimization for data centers: A power supply perspective. **IEEE Transactions on Sustainable Computing**. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10891660)
 - **Huang, H.**, Lin, W., Xu, M., & Li, K. (2025). AQESF: An Adaptive QoS-Enhanced Scheduling Framework for Online Batch of Task Scheduling. **Future Generation Computer Systems.** [[Paper]](https://www.sciencedirect.com/science/article/pii/S0167739X25004686)
 - **Huang, H.**, & Situ, H. (2021). Investigating reconstruction of quantum state distributions with neural networks. **The European Physical Journal Plus.** [[Paper]](https://link.springer.com/article/10.1140/epjp/s13360-021-01206-4)
