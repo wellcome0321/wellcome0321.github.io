@@ -2,7 +2,6 @@
 
 [![wellcome](https://img.shields.io/badge/wellcome0321-github-blue?logo=github)](https://github.com/wellcome0321)
 
-I currently serve as a lecturer at the School of Big Data and Artificial Intelligence, Guangdong University of Finance and Economics.
 
 #### Contact
 
